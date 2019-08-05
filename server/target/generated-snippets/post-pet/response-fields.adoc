@@ -1,0 +1,12 @@
+|===
+|Path|Type|Description
+
+|`id`
+|`Number`
+|Pet's ID
+
+|`name`
+|`String`
+|Pet's name
+
+|===

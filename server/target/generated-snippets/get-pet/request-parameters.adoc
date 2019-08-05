@@ -1,0 +1,7 @@
+|===
+|Parameter|Description
+
+|`name`
+|Part of the name
+
+|===

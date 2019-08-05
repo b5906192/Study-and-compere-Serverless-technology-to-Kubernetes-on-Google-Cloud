@@ -1,0 +1,8 @@
+./api/pet/{id}
+|===
+|Parameter|Description
+
+|`id`
+|Pet's ID
+
+|===

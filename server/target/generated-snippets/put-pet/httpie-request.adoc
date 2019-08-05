@@ -1,0 +1,7 @@
+[source,bash]
+----
+$ echo '{
+  "id" : 1,
+  "name" : "Test"
+}' | http PUT 'http://localhost:8080/api/pet' 'Content-Type:application/json'
+----

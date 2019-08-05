@@ -1,0 +1,6 @@
+[source,bash]
+----
+$ echo '{
+  "name" : "Test"
+}' | http POST 'http://localhost:8080/api/pet' 'Content-Type:application/json'
+----
